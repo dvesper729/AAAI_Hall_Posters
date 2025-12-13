@@ -8,20 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
+The African American Arts Institute (AAAI) was founded in 1974 as a central space to celebrate and showcase the music, dance, and visual arts of the African and African American diaspora. The roots of AAAI trace back a few years prior with the establishment of the Black House as a gathering place for Black students in 1968 and then the university Department of African American Studies in 1970. The IU Soul Revue was founded in 1971 as the first performance-based ensemble offered for college credit, performing a wide range of Black popular music. ​
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Today, AAAI is home to the IU Soul Revue, the African American Dance Company (AADC), founded in 1974, the African American Choral Ensemble (AACE), founded in 1975, as central components of the Institute and its ongoing legacy. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Included in this site is an array of posters of performances throughout the AAAI's history. These posters are on display in the halls of the AAAI's main office, so please come see them in person as well!
