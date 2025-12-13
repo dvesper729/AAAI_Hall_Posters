@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 The African American Arts Institute (AAAI) was founded in 1974 as a central space to celebrate and showcase the music, dance, and visual arts of the African and African American diaspora. The roots of AAAI trace back a few years prior with the establishment of the Black House as a gathering place for Black students in 1968 and then the university Department of African American Studies in 1970. The IU Soul Revue was founded in 1971 as the first performance-based ensemble offered for college credit, performing a wide range of Black popular music. ​
